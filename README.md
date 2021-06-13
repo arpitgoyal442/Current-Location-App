@@ -1,1 +1,1 @@
-# Current-Location-App
+Tiny App to know your current Location
